@@ -1,0 +1,3 @@
+[submodule "atExtract/atcmd"]
+	path = atExtract/atcmd
+	url = https://github.com/FICS/atcmd.git
