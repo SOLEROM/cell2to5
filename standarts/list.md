@@ -1,5 +1,9 @@
 # standarts list
 
+## general
+* numbering https://www.3gpp.org/specifications/79-specification-numbering
+
+
 ## security
 
 ### list 
