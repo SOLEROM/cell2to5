@@ -10,13 +10,13 @@
 * can be deployed in existing GSM networks
 * 
 
-#3g:
+# 3g:
 
 ## cat1
 * already standardized
 * Cat-1 is replacing 3G
 
-#4g:
+# 4g:
 
 ## cat0
 * Cat-0 optimizes for cost
