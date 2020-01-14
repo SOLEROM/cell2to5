@@ -37,7 +37,7 @@
 	* [usim](sim/usim.md)
 	* [isim](sim/isim.md)
 	* [embedsim](sim/embedsim.md)
-
+	* [euicc](sim/euicc.md)
 
 
 * [2G](2g/readme.md)

@@ -5,6 +5,8 @@
 * [iotCats](iotCats.md)
 
 
+![](../media/catX_2.jpeg)
+
 * [cat 1](cat_1.md)
 * [cat 4](cat_4.md)
 * [cat M1](cat_M1.md) 
