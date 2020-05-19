@@ -42,7 +42,8 @@
 
 * [2G](2g/readme.md)
 	* [Arch](2g/arch.md)
-
+	* [bands](2g/gsmBands.md)
+	* [callFlow](2g/gspCallFlow.md)
 
 * [lteProtocol](ltePro/readme.md)
 	* [ueCAT](ltePro/ueCat.md)
