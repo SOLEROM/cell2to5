@@ -1,4 +1,0 @@
-# Consepts
-
-* [bandAndCat](bandAndCat.md)
-

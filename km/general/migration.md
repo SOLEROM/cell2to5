@@ -10,3 +10,4 @@
 
 ![](../media/1_MobileTechnologyEvolution.JPG)
 
+![](../media/diff1.jpg)
